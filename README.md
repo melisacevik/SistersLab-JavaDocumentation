@@ -1,3 +1,3 @@
 # SistersLab-Java101
 
-Java ile BackEnd Gelilistirme Akademisi 
+Bu repo, Java ile BackEnd Geliştirme Akademisi'nde ilk 2 haftada işlenilen Java101 konularını içermektedir.
